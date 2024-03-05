@@ -1,0 +1,16 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ApiJWT/DesignTimeBuild/.dtbcache.v2
+/.vs/ApiJWT/FileContentIndex/ad18c307-4f16-49fd-8701-ec169e7e950c.vsidx
+/.vs/ApiJWT/v17/.futdcache.v2
+/.vs/ApiJWT/v17
+/.vs/ProjectEvaluation
+/.vs/VSWorkspaceState.json
+/.vs/PracticasMVCJWT/v17/.wsuo
+/.vs/slnx.sqlite
+/Escuela.Api/obj/Debug/net7.0/Escuela.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Escuela.Api/obj/Debug/net7.0/Escuela.Api.assets.cache
+/Escuela.Api/obj/Escuela.Api.csproj.nuget.dgspec.json
+/Escuela.Api/obj/project.nuget.cache
